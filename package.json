@@ -1,0 +1,19 @@
+{
+  "name": "@alehandro0707/modules",
+  "version": "1.0.0",
+  "description": "1. Каждая задача выполняется в виде отдельного проекта с собственным репозиторием на GitHub.\r 2. На эти задачи не распространяется требование отсутствия ошибок в ESLint, но вы можете его запустить и изучить появившиеся ошибки.\r 3. Решения должны быть построены на базе [шаблона webpack](/ci-template) (для задач под номерами 1 и 2).",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alehandro0707/modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alehandro0707/modules/issues"
+  },
+  "homepage": "https://github.com/Alehandro0707/modules#readme"
+}
